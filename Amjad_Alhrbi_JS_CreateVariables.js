@@ -3,6 +3,7 @@ var length =55   //put your toll in inch
 
 if (age>=10 ){
 
+    
 
     if(length>=52 ){
     console.log("Get on that ride,kiddo!");

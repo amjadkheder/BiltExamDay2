@@ -6,6 +6,7 @@ for(var i=1 ; i <=6 ; i++){      //we need loop return sequnce *2<<the increment
 }
 
 
+
 //Stretch Feature 1
 
 var speed =5.5;

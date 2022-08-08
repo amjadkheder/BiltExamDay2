@@ -6,6 +6,7 @@ for(var i=0;i<arr1.length;i++){
 }
 
 
+
 // #2
 var arr2 = [4, 7, 13, 13, 19, 37, -2];
 for(var i=0;i<arr2.length;i++){
