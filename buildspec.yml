@@ -1,0 +1,34 @@
+version: 0.2
+
+phases:
+  install:
+    on-failure: ABORT
+    runtime-versions:
+      java: corretto11
+  pre-build:
+    on-failure: ABORT
+    commands:
+      - echo build start on 'date'
+      - mvn clean
+      - mvn validate
+      - echo build ends on 'date'
+  build:
+    on-failure: ABORT
+    commands:
+    - echo build start on 'date'
+    - mvn compile
+    - mvn test
+    - echo build end on 'date'
+  post-build:
+    on-failure: ABORT
+    commands:
+    - echo build start on 'date'
+    - mvn package
+    - mv target/*.war ROOT.war
+    - echo buil end on 'date'
+
+artifacts:
+  files:
+    - ROOT.war
+  name: hello-world-artifact
+   #في عندي اخطاء على هذا الملف اللي على قت اصح من هذا 
