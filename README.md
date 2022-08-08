@@ -1,17 +1,13 @@
 ---
-# YOUR-NAME (eg. Chandra Arya)
-YOUR-introduction
-Eg. Software and DevOps engineer, Cloud architect, Instructor.
+# amjad kheder
 
-<div id="webaddress">
-<a href="chandradeoarya@gmail.com">chandradeoarya@gmail.com</a>
-| <a href="http://chandradeoarya.com">My Tech blog</a>
-</div>
+ DevOps treaner,
 
 
-## Currently
-YOUR-JOB/STUDY
-Lead DevOps instructor at Coding Dojo
+<a href="amjad.kheder@gmail.com">amjad.kheder@gmail.com</a>
+
+
+
 
 ### Specialized in
 
@@ -21,7 +17,7 @@ AWS Cloud, Linux, AWS cloud & services, SDLC, Iac, git, ansible, jenkins, monito
 
 ## Education
 
-NAME of your Uni
+taibah une
 
 
 
@@ -29,19 +25,7 @@ NAME of your Uni
 
 
 
-## Publications
 
-Gait analysis based human recognition system `April 2016`
-
-## Occupation
-YOUR-job/study
-`Codingdojo` — Lead DevOps Cloud instructor
-
-## Projects
-
-ANY project
-
-<!-- ### Footer
 
 Last updated: June 2022 -->
 
